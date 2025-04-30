@@ -30,8 +30,8 @@
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img width="40" src="https://github-readme-stats.vercel.app/api?username=Geovanaiviny&show_icons=true&theme=tokyonight"/>
-  <img width="40" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanaiviny&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovanaiviny&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanaiviny&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
@@ -39,10 +39,10 @@
 ### Como me encontrar:
 <p align="left">
   <a href="https://www.linkedin.com/in/geovana-%C3%ADviny-santos-lima-aaa621232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:geovanaiviny0@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
   </a>
 </p>
