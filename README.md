@@ -20,7 +20,8 @@
 
 ### Ferramentas de Suporte
 <p>
-  <img src="https://skillicons.dev/icons?i=jira,github,figma" />
+  <img src="https://skillicons.dev/icons?i=github,figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" alt="Jira"/>
   <img src="https://img.icons8.com/color/48/trello.png" width="40" alt="Trello"/>
   <img src="https://img.icons8.com/fluency/48/project.png" width="40" alt="GitHub Projects"/>
 </p>
