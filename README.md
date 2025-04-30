@@ -1,5 +1,5 @@
 ### Sobre mim
-- Desenvolvedora Fullstack  
+- Desenvolvedora Web 
 - Cursando Sistemas de Informação  
 
 ---
