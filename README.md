@@ -6,7 +6,7 @@
 
 ### Linguagens & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,php,laravel,python,django,nodejs,react,vue,tailwind,bootstrap,nextjs" />
+  <img src="https://skillicons.dev/icons?i=js,php,laravel,python,react,vue,tailwind,bootstrap,nextjs" />
 </p>
 
 ---
@@ -14,7 +14,6 @@
 ### Banco de Dados & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,nginx" />
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/40/external-rest-api-cloud-computing-flat-icons-inmotus-design.png" width="40" alt="APIs REST"/>
 </p>
 
 ---
@@ -31,8 +30,8 @@
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovanaiviny&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanaiviny&layout=compact&theme=tokyonight"/>
+  <img width="40" src="https://github-readme-stats.vercel.app/api?username=Geovanaiviny&show_icons=true&theme=tokyonight"/>
+  <img width="40" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanaiviny&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
