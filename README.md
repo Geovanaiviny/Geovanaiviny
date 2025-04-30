@@ -6,7 +6,7 @@
 
 ### Linguagens & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,php,laravel,python,django,nodejs,react,vue,tailwind,bootstrap,liquid,nextjs" />
+  <img src="https://skillicons.dev/icons?i=js,php,laravel,python,django,nodejs,react,vue,tailwind,bootstrap,nextjs" />
 </p>
 
 ---
